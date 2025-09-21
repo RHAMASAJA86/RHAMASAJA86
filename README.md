@@ -37,15 +37,3 @@ Here are some ideas to get you started:
 
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RHAMASAJA86&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RHAMASAJA86/RHAMASAJA86/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RHAMASAJA86/RHAMASAJA86/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RHAMASAJA86/RHAMASAJA86/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/RHAMASAJA86/RHAMASAJA86/output/snake.svg" alt="Snake animation" />
-
-###
