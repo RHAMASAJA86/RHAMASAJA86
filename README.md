@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 #### 📊 GitHub Stats:
-![](./api?username=RHAMASAJA86&theme=transparent&hide_border=false&include_all_commits=false&count_private=false/profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-view.svg/api?username=RHAMASAJA86&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 
 <div align="center">
 
