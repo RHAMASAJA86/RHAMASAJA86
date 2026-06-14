@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 
 #### 📊 GitHub Stats:
+![](./profile-3d-contrib/profile-night-view.svg)
 
 <div align="center">
 
