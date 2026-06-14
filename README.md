@@ -14,14 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi, I'm Rama
-#
 #### My Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,figma&theme=light)](https://skillicons.dev)
 
 
 #### 📊 GitHub Stats:
-![](./profile-3d-contrib/profile-night-view.svg/api?username=RHAMASAJA86&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 
 <div align="center">
 
