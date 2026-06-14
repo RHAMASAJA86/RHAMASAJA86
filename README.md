@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 #### 📊 GitHub Stats:
-![](./profile-3d-contrib/profile-night-view/api?username=RHAMASAJA86.svg)
+![](./api?username=RHAMASAJA86&theme=transparent&hide_border=false&include_all_commits=false&count_private=false/profile-3d-contrib/profile-night-view.svg)
 
 <div align="center">
 
