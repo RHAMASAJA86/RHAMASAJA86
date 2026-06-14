@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 #### 📊 GitHub Stats:
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
 
