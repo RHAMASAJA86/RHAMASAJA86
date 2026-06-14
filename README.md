@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=Pemula+Developer;Identity:+Rhamasaja86;Based+in+Indonesia;Thanks+for+dropping+by!;Don't+forget+to+grab+a+coffee...)](https://git.io/typing-svg)
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RHAMASAJA86&label=views&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/RHAMASAJA86?style=flat&color=0ad" />
+  <img src="https://img.shields.io/github/stars/RHAMASAJA86?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=FFD700" />
+</p>
 
 Here are some ideas to get you started:
 
