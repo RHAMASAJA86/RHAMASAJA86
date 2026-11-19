@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=Pemula+Developer;Identity:+Rhamasaja86;Based+in+Indonesia;Thanks+for+dropping+by!;Don't+forget+to+grab+a+coffee...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=Pemula+Developer;+Rhamasaja86;i'am+from+Indonesia;Thanks+for+dropping+by!;Don't+forget+to+grab+a+coffee...)](https://git.io/typing-svg)
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <p align="center">
@@ -7,34 +7,37 @@
   <img src="https://img.shields.io/github/stars/RHAMASAJA86?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=FFD700" />
 </p>
 
-Here are some ideas to get you started:
+## About Me
+<div align="center">
+Saya adalah mahasiswa Sistem Informasi yang sedang belajar tentang pemrograman, antarmuka web, dan pengolahan data.
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tech Stack
 
-### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,figma&theme=light)](https://skillicons.dev)
+<div align="center">
+
+### Languages
+[![Languages](https://skillicons.dev/icons?i=html,css,js,java,php&theme=light)](https://skillicons.dev)
+
+### Frameworks & Tools
+[![Frameworks & Tools](https://go-skill-icons.vercel.app/api/icons?i=codeigniter,bootstrap,mysql,git,vscode,github,figma&theme=light)](https://go-skill-icons.vercel.app)
+
+</div>
 
 
 ### 📊 GitHub Stats:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=RHAMASAJA86&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RHAMASAJA86&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=RHAMASAJA86&theme=transparent&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RHAMASAJA86&theme=transparent&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RHAMASAJA86&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
-## Play With Me
+### Play With Me
 
 ###
 
