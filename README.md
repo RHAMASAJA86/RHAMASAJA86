@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-#### My Skills
+### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,figma&theme=light)](https://skillicons.dev)
 
 
-#### 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 <div align="center">
 
@@ -35,6 +34,18 @@ Here are some ideas to get you started:
 
 </div>
 
+## Play With Me
 
-#### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RHAMASAJA86&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RHAMASAJA86/RHAMASAJA86/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RHAMASAJA86/RHAMASAJA86/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RHAMASAJA86/RHAMASAJA86/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/RHAMASAJA86/RHAMASAJA86/snake-output/snake.svg" alt="Snake animation" />
+
+###
