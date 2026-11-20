@@ -29,11 +29,11 @@ Saya adalah mahasiswa Sistem Informasi yang sedang belajar tentang pemrograman, 
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=RHAMASAJA86&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=RHAMASAJA86&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=RHAMASAJA86&theme=transparent&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=RHAMASAJA86&theme=transparent&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RHAMASAJA86&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RHAMASAJA86&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
