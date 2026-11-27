@@ -17,7 +17,7 @@ Saya adalah mahasiswa Sistem Informasi yang sedang belajar tentang pemrograman, 
 <div align="center">
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,js,java,php&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,java,php,python&theme=light)](https://skillicons.dev)
 
 ### Frameworks & Tools
 [![Frameworks & Tools](https://go-skill-icons.vercel.app/api/icons?i=codeigniter,bootstrap,mysql,git,vscode,github,figma&theme=light)](https://go-skill-icons.vercel.app)
